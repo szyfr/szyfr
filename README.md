@@ -1,5 +1,5 @@
 <p align='center'>
-<a href="https://twitter.com/LodSzyfr"><img height="20" src="images/twitter-original.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/LodSzyfr"><img height="20" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/atom-original.svg"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Hello</h2>
@@ -20,19 +20,19 @@
 
 <h4 align='center'>Languages and Tools I use:</h4>
 <p align='center'>
-<img height="30" src="images/atom-original.svg" alt="Atom">
-<img height="30" src="images/github-original.svg" alt="Github">
-<img height="30" src="images/linux-original.svg" alt="Linux">
-<img height="30" src="images/trello-plain.svg" alt="Trello">
-<img height="30" src="images/visualstudio-plain.svg" alt="visualstudio">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/atom-original.svg" alt="Atom">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/github-original.svg" alt="Github">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/linux-original.svg" alt="Linux">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/trello-plain.svg" alt="Trello">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/visualstudio-plain.svg" alt="visualstudio">
 <br>
-<img height="30" src="images/c-original.svg" alt="C">
-<img height="30" src="images/cplusplus-original.svg" alt="C++">
-<img height="30" src="images/csharp-original.svg" alt="C#">
-<img height="30" src="images/dot-net-original.svg" alt=".NET">
-<img height="30" src="images/html5-original.svg" alt="HTML5">
-<img height="30" src="images/css3-original.svg" alt="CSS">
-<img height="30" src="images/less-plain-wordmark.svg" alt="Less">
-<img height="30" src="images/python-original.svg" alt="Python">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/c-original.svg" alt="C">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/cplusplus-original.svg" alt="C++">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/csharp-original.svg" alt="C#">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/dot-net-original.svg" alt=".NET">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/html5-original.svg" alt="HTML5">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/css3-original.svg" alt="CSS">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/less-plain-wordmark.svg" alt="Less">
+<img height="30" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/python-original.svg" alt="Python">
 <br>Plus others, but I can't find neat little icons for them.
 </p>
