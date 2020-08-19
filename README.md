@@ -1,16 +1,38 @@
-### Hi there 👋
+<p align='center'>
+<a href="https://twitter.com/LodSzyfr"><img height="20" src="images/twitter-original.svg?raw=true"></a>&nbsp;&nbsp;
+</p>
 
-<!--
-**szyfr/szyfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello</h2>
+<p align='center'>I'm Joshua Zemenski, a student studying Software engineering with a dream of programming videogames. For now though I spend my time prototyping ideas and learning new things. I do have a small number of projects I'm working on, but it's hard to make a game when you have no artistic ability. I do make up for my lack of art skills with a Go-Getter attitude and an incredible amount of sarcasm.</p>
 
-Here are some ideas to get you started:
+### Current projects
+- **"FanGS"** *(Project Lead)*
+ - A fantasy-based Grand startegy game.
+- **GBATale** *(Project Lead)*
+ - A recreation of UNDERTALE for the Gameboy Advance.
+- **Pretzels: The Anime: The Game** *(Lead Developer)*
+ - Anime-styled action RPG.
+- **Phylactorio** *(Developer)*
+ - A magic-based mod for Factorio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Finished Projects
+- **TODO:** Add to this. <br><br>
+
+<h4 align='center'>Languages and Tools I use:</h4>
+<p align='center'>
+<img height="30" src="images/atom-original.svg" alt="Atom">
+<img height="30" src="images/github-original.svg" alt="Github">
+<img height="30" src="images/linux-original.svg" alt="Linux">
+<img height="30" src="images/trello-plain.svg" alt="Trello">
+<img height="30" src="images/visualstudio-plain.svg" alt="visualstudio">
+<br>
+<img height="30" src="images/c-original.svg" alt="C">
+<img height="30" src="images/cplusplus-original.svg" alt="C++">
+<img height="30" src="images/csharp-original.svg" alt="C#">
+<img height="30" src="images/dot-net-original.svg" alt=".NET">
+<img height="30" src="images/html5-original.svg" alt="HTML5">
+<img height="30" src="images/css3-original.svg" alt="CSS">
+<img height="30" src="images/less-plain-wordmark.svg" alt="Less">
+<img height="30" src="images/python-original.svg" alt="Python">
+<br>Plus others, but I can't find neat little icons for them.
+</p>
