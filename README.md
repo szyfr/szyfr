@@ -1,5 +1,5 @@
 <p align='center'>
-<a href="https://twitter.com/LodSzyfr"><img height="20" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/atom-original.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/LodSzyfr"><img height="20" src="https://raw.githubusercontent.com/szyfr/szyfr/master/images/twitter-original.svg"></a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Hello</h2>
