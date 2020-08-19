@@ -7,13 +7,13 @@
 
 ### Current projects
 - **"FanGS"** *(Project Lead)*
- - A fantasy-based Grand startegy game.
+   - A fantasy-based Grand startegy game.
 - **GBATale** *(Project Lead)*
- - A recreation of UNDERTALE for the Gameboy Advance.
+   - A recreation of UNDERTALE for the Gameboy Advance.
 - **Pretzels: The Anime: The Game** *(Lead Developer)*
- - Anime-styled action RPG.
+   - Anime-styled action RPG.
 - **Phylactorio** *(Developer)*
- - A magic-based mod for Factorio.
+   - A magic-based mod for Factorio.
 
 ### Finished Projects
 - **TODO:** Add to this. <br><br>
