@@ -7,7 +7,7 @@
 
 ### Current projects
 - **"FanGS"** *(Project Lead)*
-   - A fantasy-based Grand startegy game.
+   - A fantasy-based Grand strategy game.
 - **GBATale** *(Project Lead)*
    - A recreation of UNDERTALE for the Gameboy Advance.
 - **Pretzels: The Anime: The Game** *(Lead Developer)*
