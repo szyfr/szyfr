@@ -6,8 +6,8 @@
 <p align='center'>I'm Joshua Zemenski, a student studying Software engineering with a dream of programming videogames. For now though I spend my time prototyping ideas and learning new things. I do have a small number of projects I'm working on, but it's hard to make a game when you have no artistic ability. I do make up for my lack of art skills with a Go-Getter attitude and an incredible amount of sarcasm.</p>
 
 ### Current projects
-- **"FanGS"** *(Project Lead)*
-   - A fantasy-based Grand strategy game.
+- **Monochrome** *(Project Lead)*
+   - A arena-based monster battling game
 - **Pretzels: The Anime: The Game** *(Lead Developer)*
    - Anime-styled action RPG.
 
