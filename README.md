@@ -7,6 +7,8 @@
 ### Current projects
 - **Monochrome** *(Project Lead)*
    - A arena-based monster battling game
+- **FantASM** *(Project Lead)*
+   - An emulator for a system that doesn't exit for the Raspberry pi
 - **Pretzels: The Anime: The Game** *(Lead Developer)*
    - Anime-styled action RPG.
 
