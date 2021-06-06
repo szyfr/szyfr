@@ -7,10 +7,14 @@
 ### Current projects
 - **Monochrome** *(Project Lead)*
    - A arena-based monster battling game
-- **FantASM** *(Project Lead)*
-   - An emulator for a system that doesn't exit for the Raspberry pi
+- **Variable-ASM** *(Project Lead)*
+   - An extension for VSCode to make programming with Assembly easier.
 - **Pretzels: The Anime: The Game** *(Lead Developer)*
    - Anime-styled action RPG.
+
+### Projects on Hiatus
+- **FantASM** *(Project Lead)*
+   - An emulator for a system that doesn't exist for the Raspberry pi
 
 ### Finished Projects
 - **Frostbitten Survival:** [LINK](https://szyfr.itch.io/frostbitten-survival) A survival game that was created in 72 hours for KJam #1.
