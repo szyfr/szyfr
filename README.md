@@ -15,9 +15,9 @@
    - Anime-styled action RPG.
 
 ### Finished Projects
-- **Frostbitten Survival:** [LINK](https://szyfr.itch.io/frostbitten-survival) A survival game that was created in 72 hours for KJam #1.
-- **Dilbert's Eggscelent Adventure:** [LINK](https://szyfr.itch.io/dilberts-eggscelent-adventure) A reverse Tower defense / Bullet hell mashup game created in 48 hours for Mix and Game Jam 2020.
-- **PortFPS:** [LINK](https://github.com/szyfr/PortFPS) An "FPS" made in under three hours.
+- **[Frostbitten Survival](https://szyfr.itch.io/frostbitten-survival):** A survival game that was created in 72 hours for KJam #1.
+- **[Dilbert's Eggscelent Adventure](https://szyfr.itch.io/dilberts-eggscelent-adventure):** A reverse Tower defense / Bullet hell mashup game created in 48 hours for Mix and Game Jam 2020.
+- **[PortFPS](https://github.com/szyfr/PortFPS):** An "FPS" made in under three hours.
 
   <br><br>
 
