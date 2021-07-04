@@ -9,12 +9,10 @@
    - A arena-based monster battling game
 - **Variable-ASM** *(Project Lead)*
    - An extension for VSCode to make programming with Assembly easier.
-- **Pretzels: The Anime: The Game** *(Lead Developer)*
-   - Anime-styled action RPG.
 
 ### Projects on Hiatus
-- **FantASM** *(Project Lead)*
-   - An emulator for a system that doesn't exist for the Raspberry pi
+- **Pretzels: The Anime: The Game** *(Lead Developer)*
+   - Anime-styled action RPG.
 
 ### Finished Projects
 - **Frostbitten Survival:** [LINK](https://szyfr.itch.io/frostbitten-survival) A survival game that was created in 72 hours for KJam #1.
