@@ -7,6 +7,9 @@
 ### Current projects
 - **Monochrome** *(Project Lead)*
    - A arena-based monster battling game
+- **FamtASM** *(Project Lead)*
+   - An emulator for a system that doesn't exist to have fun with 8-bit game
+     development without worrying about physical restraints actual systems have.
 - **Variable-ASM** *(Project Lead)*
    - An extension for VSCode to make programming with Assembly easier.
 
