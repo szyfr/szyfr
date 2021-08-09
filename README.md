@@ -7,11 +7,11 @@
 ### Current projects
 - **Monochrome** *(Project Lead)*
    - A arena-based monster battling game
-- **FantASM** *(Project Lead)*
-   - An emulator for a system that doesn't exist to have fun with 8-bit game
-     development without worrying about physical restraints actual systems have.
-- **Variable-ASM** *(Project Lead)*
-   - An extension for VSCode to make programming with Assembly easier.
+   - *Short break.*
+- **SprASM** *(Project Lead)*
+   - Sprite editor for Commander X16
+- **X16 Prototypes** *(Project Lead)*
+   - Game prototypes for Commander X16
 
 ### Projects on Hiatus
 - **Pretzels: The Anime: The Game** *(Lead Developer)*
