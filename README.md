@@ -5,17 +5,14 @@
 <p align='center'>I'm Joshua Zemenski, a wannabee game developer with a degree in Software Engineering. For now though I spend my time prototyping ideas and learning new things. I do have a small number of projects I'm working on, but it's hard to make a game when you have no artistic ability. I do make up for my lack of art skills with a Go-Getter attitude and an incredible amount of sarcasm.</p>
 
 ### Current projects
-- **Monochrome** *(Project Lead)*
-   - A arena-based monster battling game
-   - *Short break.*
-- **SprASM** *(Project Lead)*
-   - Sprite editor for Commander X16
-- **X16 Prototypes** *(Project Lead)*
-   - Game prototypes for Commander X16
+- **FanGS** *(Project Lead)*
+   - Grand strategy
 
 ### Projects on Hiatus
 - **Pretzels: The Anime: The Game** *(Lead Developer)*
    - Anime-styled action RPG.
+- **Monochrome** *(Project Lead)*
+   - A arena-based monster battling game
 
 ### Finished Projects
 - **[Frostbitten Survival](https://szyfr.itch.io/frostbitten-survival):** A survival game that was created in 72 hours for KJam #1.
