@@ -28,7 +28,7 @@
       <td align=center> Unity / Godot / Unreal / Raylib / Github / Linux </td>
    </tr>
    <tr>
-      <td align=center> x86_64 Assembly / arm Assembly / C-C++ / C# / Java / Javascript / Python / SQL / MySQL / HTML / CSS </td>
+      <td align=center> Odin / x86_64 Assembly / arm Assembly / C-C++ / C# / Java / Javascript / Python / SQL / MySQL / HTML / CSS </td>
    </tr>
 </table>
 
