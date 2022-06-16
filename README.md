@@ -9,7 +9,7 @@
    - A fantasy grand strategy game that is extremely moddable.
    - Currently working on porting the project from C to Odin.
 - **MonBat** *(v0.00.0)*
-   - A rougelite monster battler.
+   - A rogue-lite monster battler.
 - **DWM2**
    - Disassembly of Dragon Warrior Monsters 2 originially for the Gameboy Color
 
