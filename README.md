@@ -5,14 +5,17 @@
 <p align='center'>I'm Joshua Zemenski, a wannabee game developer with a degree in Software Engineering. For now though I spend my time prototyping ideas and learning new things. I do have a small number of projects I'm working on, but it's hard to make a game when you have no artistic ability. I do make up for my lack of art skills with a Go-Getter attitude and an incredible amount of sarcasm.</p>
 
 ### Current projects
-- **FanGS** *(Project Lead)*
-   - Grand strategy
+- **FanGS** *(v0.00.0)*
+   - A fantasy grand strategy game that is extremely moddable.
+   - Currently working on porting the project from C to Odin.
+- **MonBat** *(v0.00.0)*
+   - A rougelite monster battler.
+- **DWM2**
+   - Disassembly of Dragon Warrior Monsters 2 originially for the Gameboy Color
 
-### Projects on Hiatus
-- **Pretzels: The Anime: The Game** *(Lead Developer)*
-   - Anime-styled action RPG.
-- **Monochrome** *(Project Lead)*
-   - A arena-based monster battling game
+### Finished / InDev Tools
+- **Skald** *(V1.00.0)*
+   - A textbox system for games useing Raylib in Odin.
 
 ### Finished Projects
 - **[Frostbitten Survival](https://szyfr.itch.io/frostbitten-survival):** A survival game that was created in 72 hours for KJam #1.
